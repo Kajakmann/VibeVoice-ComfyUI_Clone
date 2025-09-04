@@ -331,7 +331,7 @@ class BaseVibeVoiceNode:
         """Get model name mappings"""
         return {
             "VibeVoice-1.5B": "microsoft/VibeVoice-1.5B",
-            "VibeVoice-Large-Preview": "WestZhang/VibeVoice-Large-pt",
+            "VibeVoice-Large_Mirror": "sheliak/VibeVoice-Large_Mirror",
             "VibeVoice-Large": "microsoft/VibeVoice-Large"
         }
     
